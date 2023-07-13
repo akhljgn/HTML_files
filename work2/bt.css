@@ -1,0 +1,23 @@
+.bg{
+    background-color: blanchedalmond;
+}
+.head1{
+    background-color: red;
+    border: 2px solid black;
+}
+
+.alanpic{
+    width: 150px;
+    height: 150px;
+    float: left;
+    padding-right: 15px;
+    padding-top: 10px;
+}
+
+.c2{
+    padding-left: 200px;
+}
+.col p{
+    font-size: 20px;
+
+}

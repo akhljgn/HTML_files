@@ -1,0 +1,25 @@
+.main{
+    padding-top: 30px;
+}
+
+.box{
+    display: block;
+    height: 25px;
+    width: 50px;
+    padding-right: 300px;
+}
+
+.box1{
+    display: flex;
+    height: 25px;
+    width: 50px;
+    padding-right: 300px;
+}
+ 
+.a1{
+    display: flex;
+}
+
+.a2{
+    padding-top: 30px;
+}

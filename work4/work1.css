@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+.body{
+    background-color: white;
+    color: black;
+}
+
+
+.nav2{
+    text-align: center;
+    margin: 0 200px;
+}
+
+.link1{
+    width: 500px;
+}
+
+.head1{
+    font-family: 'Playfair Display', serif;
+    font-size: 3em;
+    font-weight: 900;
+    color: black;
+}
+
+.a1{
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    padding-right: 30px;
+    padding-bottom: 10px;
+}
+
+
+.b1{
+    background-color: rgb(220, 84, 84);
+    color: white;
+    border: none;
+    padding: 10px 40px;  
+    font-weight: bolder;
+}
+.b1:hover{
+    background-color: rgb(3, 19, 99);
+}
+
+.z3{
+    width: 90%;
+    margin: 0 10px;
+    border-bottom: 1.5px solid rgb(94, 94, 94);
+    padding: 20px;
+}
+.hea1{
+    color: rgb(255, 157, 0);
+}
+
+.z31{
+    width: 95%;
+    margin-left: 10px;
+    padding: 20px;
+}
+
+.z3 p{
+    color: rgb(94, 99, 104);
+}
+.z31 p{
+    color: rgb(94, 99, 104);
+}
+
+.z1{
+    width: 90%;
+    height: 100%;
+    background-color: #01051a;
+    color: white;
+}
+
+.z3 h5:hover{
+    color: rgb(255, 157, 0);
+}
+.z31 h5:hover{
+    color: rgb(255, 157, 0);
+}
+
+.z5 h1{
+    margin:0 50px;
+    font-weight: bolder;
+    color: black;
+    font-weight: bolder;
+    font-size: 3em;
+}
+
+.z6{
+    margin-left: -60px;
+}
+
+.img1{
+    width: min-content;
+    height: 200px;
+    float: right;
+}
+
+.hw1{
+    color: rgba(141, 141, 141, 0.728);
+}
+
+.hw2{
+    font-weight: bolder;
+    padding: 10px 0;
+    padding-bottom: 5px;
+}
+
+.z8{
+    text-align: center;
+}
+

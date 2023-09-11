@@ -1,0 +1,215 @@
+.nav1{
+    background-color: orangered;
+    padding-left: 300px;
+}
+
+.a1{
+    padding-top: 10px;
+    color: white;
+}
+
+.a2{
+    padding: 15px 0px;
+}
+
+.link12 li{
+    padding-right: 40px;
+}
+
+.nav2{
+    padding-left: 300px;
+    color: orangered;
+    background-color: white;
+}
+
+.head1{
+    color: black;
+}
+
+.link1{
+    padding-right: 150px;
+}
+
+.a5{
+    padding: 70px;
+}
+
+.b1{
+    border-radius: 25px;
+    background-color: rgb(20, 57, 242);
+    color: white;
+    border: none;
+    padding: 10px 20px;  
+    border: 2px solid rgb(20, 57, 242);
+}
+.b1:hover{
+    color: rgb(20, 57, 242);
+    background-color: white;
+    border: 2px solid rgb(20, 57, 242);
+}
+
+.main1{
+    background-image: url("../images/tree.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.g1{
+    margin-bottom: -400px;
+}
+
+.im{
+    text-align: center;
+
+}
+.h7{
+    color: orangered;
+}
+.bgc{
+    background-image: url("../work2/images/int.jpg.png");
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: aliceblue;
+}
+.pc{
+    padding-top: 130px;
+}
+
+.g2{
+    text-align: center;
+    justify-content: space-between;
+}
+
+.g3{
+    margin: 5px 20px;
+    border-radius: 5px;
+    padding: 20px 40px;
+    background-color: white;
+    color: black;
+    transition: padding .5s;
+}
+
+.g3:hover{
+    padding: 30px 50px;
+
+}
+.g20{
+    color: orangered;
+    font-size: 25px;
+}
+.g21{
+    color: white;
+    font-size: 20px;
+}
+
+
+.g4{
+    margin-left: 100px;
+    display: block;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    width: 310px;
+    height: 350px;
+    padding-bottom: 50px;  
+}
+.g5{
+    list-style: none; 
+    margin-top: 80px;
+    margin-left: 20px;
+    padding-top: 50px;
+}
+.g5 input{
+    border-radius: 10px;
+    border: 1px solid rgba(128, 128, 128, 0.855);
+    padding-bottom: 10px;
+}
+.g5 input:hover{
+    border: 1px solid black;
+    
+}
+.g5 label{
+    margin-top: -13px;
+    padding-top: 18px;
+}
+
+.g6{
+    margin-left: 50px;
+}
+
+.b2{
+    border-radius: 25px;
+    background-color: orangered;
+    color: white;
+    border: 2px solid orangered;
+    margin-top: 20px;
+    padding: 8px 56px;  
+}
+.b2:hover{
+    color: orangered;
+    background-color: white;
+    border: 2px solid orangered;
+}
+
+.g7{
+    list-style-type: disc;
+    padding: 0 20px;
+    margin-right: 15px;
+}
+.g8{
+    padding-right: 20px;
+}
+.g9{
+    padding-top: 20px;
+    margin-right: -20px;
+
+}
+.g10{
+    padding-top: 20px;
+    margin-right: -210px;
+}
+
+.g25{
+    border-radius: 10px;
+}
+.g15{
+    background-color: black;
+    color: rgb(140, 141, 142);
+}
+.g16{
+    background-color: black; 
+    color: rgb(140, 141, 142);
+    text-align: center;
+}
+.g17{
+    background-color: black;
+    text-align: center;
+}
+
+.head4{
+    color: aliceblue;
+}
+
+.g19{
+    font-size: 25px; 
+    margin-left: 40px;
+}
+
+.g22{
+    display: flex;
+    padding-right: 80px;
+}
+.g23{
+    margin-right: 60px;
+    font-size: 25px; 
+    color: aliceblue;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.g28:hover{
+    color: aqua;
+}

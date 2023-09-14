@@ -581,8 +581,39 @@
     font-size: 17px;
 }
 
-nn9{
+.nn9{
     font-size: large;
+}
+
+.logo{
+    display: flex;
+    padding-top: 100px;
+}
+
+.qw5{
+    padding-right: 50px;
+}
+
+.logo ion-icon{
+    border: 1px solid rgba(8, 7, 7, 0.832);
+    border-radius: 50%;
+    background-color: rgba(45, 45, 45, 0.911);
+    color: white;
+    font-size: 35px;
+    padding: 5px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.zz0{
+    text-align: center;
+    color: white;
+}
+
+.zzo p{
+    padding-top: 120px;
 }
 
 /* footer close */
